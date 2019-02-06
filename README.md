@@ -1,0 +1,2 @@
+# ctprop
+Compile-time properties
